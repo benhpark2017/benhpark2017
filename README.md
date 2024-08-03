@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benhpark2017
 - 👀 I’m interested in Chemistry, Computer Science, and Cooking.
-- 🌱 I’m currently learning Data Structures in C++ and PyTorch.
+- 🌱 I’m currently learning C++ from learncpp.com, Data Structures in C++ and PyTorch.
 - 💞️ I’m looking to collaborate on nothing as of yet, but I'll keep you all updated!
 - 📫 How to reach me benhparkyt@gmail.com
 - 😄 Pronouns: pink/guy jk he/him
