@@ -2,7 +2,7 @@
 - 👀 I’m interested in Chemistry, Computer Science, and Cooking.
 - 🌱 I’m currently learning C++ from learncpp.com.
 - 💞️ I’m looking to collaborate on nothing as of yet, but I'll keep you all updated!
-- 📫 How to reach me benhparkyt@gmail.com
+- 📫 How to reach me benhpark@gmail.com
 - 😄 Pronouns: pink/guy jk he/him
 - ⚡ Fun fact: I'm a huge fan of the YouTube channel TVFilthyFrank and related memes.
 
