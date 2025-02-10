@@ -9,6 +9,7 @@
 ```
 > It's not the plane, it's the pilot. 
 - Pete "Maverick" Mitchell
+```
 
 <!---
 benhpark2017/benhpark2017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
