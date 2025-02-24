@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benhpark2017
-- 👀 I’m interested in Chemistry, Computer Science, and Cooking.
+- 👀 I’m interested in Chemistry, Applied Mathematics, Computer Science, and Cooking.
 - 🌱 I’m currently learning C++ from learncpp.com.
 - 💞️ I’m looking to collaborate on nothing as of yet, but I'll keep you all updated!
 - 📫 How to reach me benhpark@gmail.com
